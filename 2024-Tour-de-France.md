@@ -40,14 +40,9 @@ Teams
     Team TotalEnergies
     Uno-X Mobility
 
-Cyclist
+## Route and stages
 
-Tiesj Benoot            Belgium         Visma–Lease a Bike      30
-Matteo Jorgenson        United States   Visma–Lease a Bike      24
-Wilco Kelderman         Netherlands     Visma–Lease a Bike      33
-Christophe Laporte      France          Visma–Lease a Bike      31
-Bart Lemmen             Netherlands     Visma–Lease a Bike      28
-Jan Tratnik             Slovenia        Visma–Lease a Bike      34
-Wout van Aert           Belgium         Visma–Lease a Bike      29
-Jonas Vingegaard        Denmark         Visma–Lease a Bike      27
+Italy will host the Grand Départ, for the first time.[2][3] 2024 will be the 100th anniversary of the first Italian victory in the Tour, won by Ottavio Bottecchia in 1924. The route will also visit the microstate of San Marino, making it the 14th country to be visited by a Tour stage. The race will not finish in Paris, owing to preparations for the Paris 2024 Olympic and Paralympic Games. Instead, the tour will finish in Nice with an individual time trial—the last time a time trial was the final stage in the Tour was in 1989.
+
+In October 2023, the full route was announced by Christian Prudhomme. The route was described as "tough" by riders, with particular concern regarding the gravel tracks on stage 9 and limited opportunities for sprinters.
 
